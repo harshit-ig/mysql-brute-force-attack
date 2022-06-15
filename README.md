@@ -1,2 +1,2 @@
 # mysql-brute-force-attack
-description ki zarurat hai kya😂
+just put a password list and rename it to 'passwords.txt' in the same directory and you're good to go.
